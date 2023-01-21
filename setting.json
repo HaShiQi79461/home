@@ -1,0 +1,46 @@
+{
+    "title": "Lanbinの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "Lanbin,个人主页",
+    "author": "Lanbin",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "lanbin",
+    "logo_text_2": "top",
+    "github": "lanbinshijie",
+    "qq": "271360178",
+    "email": "me@lanbin.top",
+    "bilibili": "511022936",
+    "telegram": "",
+    "link_1": [
+        "https://lib.lanbin.top/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "http://dav.furtech.top/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "https://lib.lanbin.top",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "/",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "蓝冰世界",
+    "beian": "萌ICP备20230108号"
+}
